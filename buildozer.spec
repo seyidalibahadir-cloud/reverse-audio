@@ -5,6 +5,8 @@ title = Reverse Audio
 package.name = reverseaudio
 package.domain = org.reverseaudio
 
+android.accept_sdk_license = True
+
 source.dir = .
 source.include_exts = py,png,jpg,kv
 
